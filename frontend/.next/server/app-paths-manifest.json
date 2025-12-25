@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/invoices/new/page": "app/invoices/new/page.js",
+  "/clients/page": "app/clients/page.js",
+  "/invoices/page": "app/invoices/page.js",
+  "/templates/page": "app/templates/page.js",
+  "/scheduled/page": "app/scheduled/page.js",
+  "/email-logs/page": "app/email-logs/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/settings/company/page": "app/settings/company/page.js"
+}
